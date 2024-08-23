@@ -4,7 +4,7 @@ Welcome to HellCat Stores, your ultimate destination for innovative and high-per
 
 ### Features
 
-- **Responsive Design**: Our website is designed to provide an optimal viewing experience across a wide range of devices.
+- ** Responsive Design**: Our website is designed to provide an optimal viewing experience across a wide range of devices.
 - **Hero Section**: A visually appealing introduction with a call-to-action button to explore our shop.
 - **Dynamic Carousel**: Highlighting our top products with a smooth, automated image slider.
 - **Product Showcase**: Detailed product cards showcasing the latest and greatest in laptop technology.
